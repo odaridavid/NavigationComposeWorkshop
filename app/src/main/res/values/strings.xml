@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavigationCompose</string>
+    <string name="home_screen_text">This is the home screen</string>
+    <string name="details_screen_text">This is the details screen</string>
+</resources>
